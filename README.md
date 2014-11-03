@@ -8,4 +8,4 @@ scanning columns, scanning rows, hidden pairs, and finding naked pairs. The prog
 used to fill out the Sudoku puzzle. If the above techniques do not produce a solution, a recursive backtracking
 algorithm is applied to the Sudoku puzzle to find the solution. Inputing a non-valid sudoku puzzle will result
 in an error. The solution will be saved as a CSV file with title sudokuOutput.csv.  
-s
+
